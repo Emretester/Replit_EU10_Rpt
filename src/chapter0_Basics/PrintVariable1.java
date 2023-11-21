@@ -1,4 +1,4 @@
-package chapter0_basics;
+package chapter0_Basics;
 
 public class PrintVariable1 {
 
